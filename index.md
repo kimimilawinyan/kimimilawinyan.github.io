@@ -1,4 +1,5 @@
-<img src="https://github.com/kimimilawinyan/kimimilawinyan.github.io/blob/main/me.jpg?raw=true"><h1>Celeste Kimimila</h1>
+<img src="https://github.com/kimimilawinyan/kimimilawinyan.github.io/blob/main/me.jpg?raw=true">
+<h1>Celeste Kimimila</h1>
 <h2>Summer 2026 | EDSC Portfolio</h2>
 
 <h3>Get in Touch:</h3>
