@@ -2,7 +2,7 @@
 <h2>Summer 2026 | EDSC Portfolio</h2>
 
 <h3>Get in Touch:</h3>
-<li><a href="mailto:celeste@wawokiye.com">celeste@wawokiye.com</a></li>
+<li><a href="mailto: celeste@wawokiye.com">celeste@wawokiye.com</a></li>
 <li><a href="https://github.com/kimimilawinyan">GitHub</a></li>
 <li><a href="https://www.linkedin.com/in/celestekimimila">LinkedIn</a></li>
 <li><a href="https://www.wawokiye.com">Wawokiye LLC</a></li>
